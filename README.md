@@ -21,6 +21,7 @@ Python libraries for Data Science.
 - **Matplotlib advanced.** Interactive plots. 
 - **Vizualization is beautiful.** Rules for good data visualization and what to avoid.
 
+
 ### II semester
 Machine learning. 
 - **Virtual environments.**
@@ -28,6 +29,7 @@ Machine learning.
 - **Supervised learning.** Linear, polynomial regression. KNN. Naive Bayes. Decision trees and assembled learning. 
 - **Unsupervised learning.** Clustering algorithms: K-means, Agglomerative Clustering. Dimention reduction: PCA, ICA.
 - **Neural network concepts.** Mathematical model of a neuron. Percepron. Weights and Bias. Activation function.
+
 
 ### Additional
 - Version controls with GIT
@@ -48,7 +50,8 @@ Machine learning.
 - SciPy: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf
 
 **Tutorials:**
-- Pandas Exercises: https://github.com/guipsamora/pandas_exercises 
+- Pandas Exercises https://github.com/guipsamora/pandas_exercises 
+- Astropandas https://github.com/janerigby/astro-pandas-tutorials 
 
 **YouTube channels:**
 - StatQuest breaks down complicated Statistics and Machine Learning methods into small, bite-sized pieces that are easy to understand. https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
