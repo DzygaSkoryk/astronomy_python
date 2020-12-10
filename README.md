@@ -54,7 +54,8 @@ Machine learning.
 - Astropandas https://github.com/janerigby/astro-pandas-tutorials 
 
 **YouTube channels:**
-- StatQuest breaks down complicated Statistics and Machine Learning methods into small, bite-sized pieces that are easy to understand. https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
+- StatQuest breaks down complicated Statistics and Machine Learning methods into small, bite-sized pieces that are easy to understand. Begginer level, very clear. https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
+- This channel is focused on creating tutorials and walkthroughs for software developers, programmers, and engineers. Intermediate level, very intensive. https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
 
 **Online courses:** 
 - Основи програмування (python) https://courses.prometheus.org.ua/courses/KPI/Programming101/2015_T1/about 
