@@ -50,6 +50,7 @@ Machine learning.
 - SciPy: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf
 
 **Tutorials:**
+- Numpy Exercises https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
 - Pandas Exercises https://github.com/guipsamora/pandas_exercises 
 - Astropandas https://github.com/janerigby/astro-pandas-tutorials 
 
@@ -63,3 +64,9 @@ Machine learning.
 - Нейронные сети и компьютерное зрение. https://stepik.org/course/50352/promo 
 - Deep Learning Specialization with Andrew Ng. Classics of deep learning courses. You must at least be familiar with this lectures.  https://www.coursera.org/specializations/deep-learning 
 - Data-driven Astronomy https://www.coursera.org/learn/data-driven-astronomy 
+
+**Other:**
+- Personal website of a astrophysicist, numerical modeller, and data analyst. To know more on how I use Data Science techniques in Astrophysics. 
+http://www.astrowing.eu/ 
+- Python for Astronomers web site. It provides a variety of tutorials, code snippets, resources, lists of useful packages, general discussion, advice and also features news items, event information and announcements. http://www.astropython.org/
+- List of python astronomy packages: https://research.iac.es/sieinvens/siepedia/pmwiki.php?n=HOWTOs.EmpezandoPython
