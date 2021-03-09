@@ -1,4 +1,4 @@
-# astronomy_python
+﻿# astronomy_python
 Data Science and Machine Learning in Astronomy with Python.  
 
 This is a course named "Methods of computer science for astronomy" in Astronomy department of Karazin Kharkiv National University. 
@@ -9,29 +9,34 @@ Author: Anastasiia Skoryk
 
 ### I semester. 
 Python libraries for Data Science. 
-- **Python IDE.** Jupyter Notebook. VS Code, PyCharm
+- **Python IDE.** Anaconda, Jupyter Notebook. VS Code, PyCharm
 - **Python basics.** Variable types, structures, functions, iterators, loops. 
-- **Python intermidiate.** List comprehension. 
+- **Python intermediate.** List comprehension. 
 - **Numpy introduction.** Ndarrays, array indexing and slicing. Array reshaping. 
 - **Numpy intermediate.** Broadcasting, fancy indexing.
 - **Pandas introduction.** DataSeries, dataframe. Indexing and slicing. Loc, iloc functions. Getting data information.
 - **Pandas intermediate.** Handling NaN. Apply method. Data filtering and sorting. 
 - **Pandas advanced.** Joining tables. Groupby methods. Hierarchical multi indexing. 
-- **Matplotlib basic.** Basic plots. Styles.  
-- **Matplotlib advanced.** Interactive plots. 
-- **Vizualization is beautiful.** Rules for good data visualization and what to avoid.
+- **Matplotlib basic.** Two concepts of mpl interaction. Basic plots. Styles.  
+- **Image visualization and processing.** Libraries for working with images: PIL, MPL, astropy.visualization, OpenCV, Skimage 
+- **Visualization is beautiful.** Rules for good data visualization and what to avoid.
+- **Astropy.** Basic data structures. FITS format handling. WCS and coordinate transforming. 
 
 
 ### II semester
 Machine learning. 
 - **Virtual environments.**
-- **Introduction into machine learnign**. Feature space, conception of learning. Supervised/unsupervised learning.
-- **Supervised learning.** Linear, polynomial regression. KNN. Naive Bayes. Decision trees and assembled learning. 
-- **Unsupervised learning.** Clustering algorithms: K-means, Agglomerative Clustering. Dimention reduction: PCA, ICA.
-- **Neural network concepts.** Mathematical model of a neuron. Percepron. Weights and Bias. Activation function.
+- **Introduction into machine learning**. Feature space, conception of learning. Supervised/unsupervised learning. Typical ML tasks. Skit-learn introduction. 
+- **Supervised learning.** Regression models. Linear models. Bias-Variance Trade-off. Train/test split. 
+- **Naive Bayes.** Bayes theorem. NBC family of algorithms. Confusion matrix. Classification metrics.
+- **Decision trees and assembled learning.** 
+- **Unsupervised learning.** Clustering algorithms: K-means, Agglomeration Clustering. 
+- **Dimension reduction: PCA.**
+- **Neural network basic concepts.** Mathematical model of a neuron. Perception. Weights and Bias. Activation functions.
 
 
 ### Additional
+- Python OOP Introduction
 - Version controls with GIT
 
 
