@@ -69,6 +69,8 @@ Machine learning.
 - Нейронные сети и компьютерное зрение. https://stepik.org/course/50352/promo 
 - Deep Learning Specialization with Andrew Ng. Classics of deep learning courses. You must at least be familiar with this lectures.  https://www.coursera.org/specializations/deep-learning 
 - Data-driven Astronomy https://www.coursera.org/learn/data-driven-astronomy 
+- Stanford course “The Fourier Transform and its Applications” https://see.stanford.edu/Course/EE261 
+
 
 **Other:**
 - Personal website of a astrophysicist, numerical modeller, and data analyst. To know more on how I use Data Science techniques in Astrophysics. 
