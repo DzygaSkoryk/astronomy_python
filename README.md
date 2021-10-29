@@ -53,11 +53,21 @@ Machine learning.
 - Pandas: https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 - Matplotlib: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf
 - SciPy: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf
+- Probability:
+https://github.com/wzchen/probability_cheatsheet 
+https://raw.githubusercontent.com/wzchen/probability_cheatsheet/master/probability_cheatsheet.pdf 
+- Machine Learning:
+https://github.com/remicnrd/ml_cheatsheet  
+https://remicnrd.github.io./the-machine-learning-cheatsheet/   
 
 **Tutorials:**
-- Numpy Exercises https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+- Numpy Exercises https://storage.googleapis.com/kaggle-forum-message-attachments/823319/15380/100%20numpy%20excersises.pdf 
 - Pandas Exercises https://github.com/guipsamora/pandas_exercises 
-- Astropandas https://github.com/janerigby/astro-pandas-tutorials 
+- Astropandas https://github.com/janerigby/astro-pandas-tutorials
+- Practical ML video tutorials https://pythonprogramming.net/machine-learning-tutorial-python-introduction/  
+	covers many topics, gives holistic understanding
+	includes really useful ‘implement this from scratch’ 
+	discusses Deep Learning  
 
 **YouTube channels:**
 - StatQuest breaks down complicated Statistics and Machine Learning methods into small, bite-sized pieces that are easy to understand. Begginer level, very clear. https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
