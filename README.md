@@ -11,7 +11,7 @@ Author: Anastasiia Skoryk
 Python libraries for Data Science. 
 - **Python IDE.** Anaconda, Jupyter Notebook. VS Code, PyCharm
 - **Python basics.** Variable types, structures, functions, iterators, loops. 
-- **Python intermediate.** List comprehension. 
+- **Python intermediate.** List comprehensions, lambda functions. 
 - **Numpy introduction.** Ndarrays, array indexing and slicing. Array reshaping. 
 - **Numpy intermediate.** Broadcasting, fancy indexing.
 - **Pandas introduction.** DataSeries, dataframe. Indexing and slicing. Loc, iloc functions. Getting data information.
@@ -38,6 +38,7 @@ Machine learning.
 ### Additional
 - Python OOP Introduction
 - Version controls with GIT
+- Data bases, SQL, ADQL
 
 
 ### Resources and usefull links: 
@@ -76,7 +77,6 @@ https://remicnrd.github.io./the-machine-learning-cheatsheet/
 **Online courses:** 
 - Основи програмування (python) https://courses.prometheus.org.ua/courses/KPI/Programming101/2015_T1/about 
 - Applied Data Science with Python Specialization (Michigan) https://www.coursera.org/specializations/data-science-python#courses 
-- Нейронные сети и компьютерное зрение. https://stepik.org/course/50352/promo 
 - Deep Learning Specialization with Andrew Ng. Classics of deep learning courses. You must at least be familiar with this lectures.  https://www.coursera.org/specializations/deep-learning 
 - Data-driven Astronomy https://www.coursera.org/learn/data-driven-astronomy 
 - Stanford course “The Fourier Transform and its Applications” https://see.stanford.edu/Course/EE261 
